@@ -1,0 +1,29 @@
+/* stylesheet */
+
+form {
+  font-family: "メイリオ";
+  line-height: 200%;
+  background-color: #ffffff;
+  border: solid #999999 1px;
+  color: #000000;
+  width: 300px;
+  padding: 10px;
+}
+
+.button {
+  font-size: 8px;
+  font-weight: bold;
+  padding: 8px 24px;
+  background-color: #248;
+  color: #fff;
+  border-style: none;
+}
+
+.button:hover {
+  background-color: #24d;
+  color: #fff;
+}
+
+#outMoney {
+  font-size: 24pt;
+}
